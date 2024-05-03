@@ -1,6 +1,7 @@
 # yasiya99
 
-<h2 align="left">Hi 👋! My name is Yasintha and I'm a Project Management Enthusiast.</h2>
+<h2 align="center">Hi 👋! I'm Yasintha.</h2>
+<h3 align="center"> Project Management Enthusiast </h3>
 
 
 ## 🌟 About Me
